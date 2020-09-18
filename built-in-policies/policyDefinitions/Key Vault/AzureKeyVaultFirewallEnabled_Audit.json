@@ -17,9 +17,7 @@
           "description": "Enable or disable the execution of the policy"
         },
         "allowedValues": [
-          "Audit",
           "Disabled"
-          "Enabled"
         ],
         "defaultValue": "Disabled"
       }
