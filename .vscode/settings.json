@@ -1,9 +1,24 @@
 {
     "cSpell.words": [
+        "BYOL",
+        "BYOS",
+        "Centos",
+        "Contoso",
+        "Datacenter",
         "FHIR",
+        "HANA",
         "Karenbauer",
+        "Onebox",
+        "RDSH",
+        "RHEL",
+        "SAPCAL",
         "SKUs",
-        "porperty"
+        "SLES",
+        "SRIOV",
+        "cloudera",
+        "porperty",
+        "smalldisk",
+        "zhcn"
     ],
     "azureFunctions.deploySubpath": ".",
     "azureFunctions.projectLanguage": "PowerShell",

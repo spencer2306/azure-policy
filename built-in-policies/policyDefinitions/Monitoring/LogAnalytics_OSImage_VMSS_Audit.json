@@ -277,10 +277,6 @@
                                             "equals": "Canonical"
                                         },
                                         {
-                                            "field": "Microsoft.Compute/imageOffer",
-                                            "equals": "UbuntuServer"
-                                        },
-                                        {
                                             "anyOf": [
                                                 {
                                                     "field": "Microsoft.Compute/imageSKU",
