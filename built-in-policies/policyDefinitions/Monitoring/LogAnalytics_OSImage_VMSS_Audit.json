@@ -274,30 +274,6 @@
                                     "allOf": [
                                         {
                                             "field": "Microsoft.Compute/imagePublisher",
-                                            "equals": "Canonical"
-                                        },
-                                        {
-                                            "anyOf": [
-                                                {
-                                                    "field": "Microsoft.Compute/imageSKU",
-                                                    "like": "14.04*LTS"
-                                                },
-                                                {
-                                                    "field": "Microsoft.Compute/imageSKU",
-                                                    "like": "16.04*LTS"
-                                                },
-                                                {
-                                                    "field": "Microsoft.Compute/imageSKU",
-                                                    "like": "18.04*LTS"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                },
-                                {
-                                    "allOf": [
-                                        {
-                                            "field": "Microsoft.Compute/imagePublisher",
                                             "equals": "Oracle"
                                         },
                                         {
